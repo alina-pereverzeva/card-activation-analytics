@@ -1,0 +1,6 @@
+\copy (SELECT * FROM card_lab.mart_channels ORDER BY channel_name) TO '/exports/channels.csv' WITH (FORMAT csv, HEADER true)
+\copy (SELECT * FROM card_lab.mart_funnel ORDER BY channel_name,stage_order) TO '/exports/funnel.csv' WITH (FORMAT csv, HEADER true)
+\copy (SELECT * FROM card_lab.mart_monthly ORDER BY channel_name,activity_month) TO '/exports/monthly.csv' WITH (FORMAT csv, HEADER true)
+\copy (SELECT * FROM card_lab.mart_retention ORDER BY channel_name,cohort_month,month_number) TO '/exports/retention.csv' WITH (FORMAT csv, HEADER true)
+\copy (SELECT * FROM card_lab.mart_activation_days ORDER BY channel_name,activation_bucket) TO '/exports/activation_days.csv' WITH (FORMAT csv, HEADER true)
+\copy (SELECT * FROM card_lab.qa_checks ORDER BY check_name) TO '/exports/quality_checks.csv' WITH (FORMAT csv, HEADER true)
