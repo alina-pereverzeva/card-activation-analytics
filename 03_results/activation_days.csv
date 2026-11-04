@@ -1,0 +1,21 @@
+channel_name,activation_bucket,customers
+Organic,01 Days 0-7,650
+Organic,02 Days 8-30,222
+Organic,03 Days 31+,50
+Organic,04 No purchase yet,133
+Paid search,01 Days 0-7,541
+Paid search,02 Days 8-30,213
+Paid search,03 Days 31+,58
+Paid search,04 No purchase yet,261
+Partners,01 Days 0-7,305
+Partners,02 Days 8-30,115
+Partners,03 Days 31+,40
+Partners,04 No purchase yet,114
+Referral,01 Days 0-7,492
+Referral,02 Days 8-30,191
+Referral,03 Days 31+,47
+Referral,04 No purchase yet,82
+Social ads,01 Days 0-7,318
+Social ads,02 Days 8-30,140
+Social ads,03 Days 31+,35
+Social ads,04 No purchase yet,255

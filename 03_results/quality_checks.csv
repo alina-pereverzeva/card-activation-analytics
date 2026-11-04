@@ -1,0 +1,15 @@
+check_name,failures
+applications_after_registration,0
+channel_counts_valid,0
+lifecycle_one_row_per_applicant,0
+money_reconciles,0
+no_duplicate_lifecycle,0
+no_future_events,0
+no_incomplete_retention_month,0
+ordered_lifecycle,0
+refund_not_above_purchase,0
+retention_in_range,0
+retention_m0_equals_one,0
+transactions_after_receipt,0
+valid_card_application,0
+valid_refund_reference,0

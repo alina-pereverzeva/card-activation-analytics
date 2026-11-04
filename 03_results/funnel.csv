@@ -1,0 +1,21 @@
+channel_name,stage_order,stage,customers
+Organic,1,01 Application,1345
+Organic,2,02 Approved,1229
+Organic,3,03 Card received,1144
+Organic,4,04 First purchase,982
+Paid search,1,01 Application,1557
+Paid search,2,02 Approved,1371
+Paid search,3,03 Card received,1172
+Paid search,4,04 First purchase,860
+Partners,1,01 Application,808
+Partners,2,02 Approved,733
+Partners,3,03 Card received,630
+Partners,4,04 First purchase,488
+Referral,1,01 Application,1042
+Referral,2,02 Approved,965
+Referral,3,03 Card received,898
+Referral,4,04 First purchase,788
+Social ads,1,01 Application,1248
+Social ads,2,02 Approved,1015
+Social ads,3,03 Card received,801
+Social ads,4,04 First purchase,520
